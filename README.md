@@ -1,6 +1,6 @@
 # E-Commerce Sales Dashboard in Power BI
 
-Explore this interactive Power BI dashboard analyzing sales, customer segments, and profitability across different markets and product categories for an e-commerce store. Also, check out the DAX formulas used to prepare the analysis.
+Explore this interactive Power BI [dashboard](https://github.com/bodanp1k/E-Commerce-Sales-Dashboard-in-Power-BI/blob/main/Ecommerce%20Sales%20Analysis.pbix) analyzing sales, customer segments, and profitability across different markets and product categories for an e-commerce store. Also, check out the [DAX formulas](https://github.com/bodanp1k/E-Commerce-Sales-Dashboard-in-Power-BI/blob/main/DAX%20Measures.pdf) used to prepare the analysis.
 
 This is the first project I completed in Power BI while currently pursuing the Microsoft Power BI Data Analyst certificate. The dataset and inspiration for the project come from the FP20 Analytics September 2024 Challenge organized by [ZoomCharts](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/).
 
